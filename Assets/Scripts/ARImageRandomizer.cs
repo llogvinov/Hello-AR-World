@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ImageRandomizer : MonoBehaviour
+public class ARImageRandomizer : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer _randomSpriteRenderer;
     [SerializeField] private Sprite[] _sprites;

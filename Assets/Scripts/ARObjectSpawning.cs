@@ -4,7 +4,7 @@ using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
 
 [RequireComponent(typeof(ARRaycastManager))]
-public class ARTapToPlace : MonoBehaviour
+public class ARObjectSpawning : MonoBehaviour
 {
     public GameObject gameObjectToInstantiate;
 

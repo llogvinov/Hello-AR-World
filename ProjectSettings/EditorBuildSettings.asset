@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MultipleObjectPlacing.unity
+    guid: 19a53d77e61476341b6d001ed2050952
+  - enabled: 1
     path: Assets/Scenes/ImageTracking.unity
     guid: c4edfbb78334f674ba5f7030a993802d
   - enabled: 1
