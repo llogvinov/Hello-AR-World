@@ -6,13 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Scene3.unity
+    path: Assets/Scenes/ImageTracking.unity
+    guid: c4edfbb78334f674ba5f7030a993802d
+  - enabled: 1
+    path: Assets/Scenes/FaceTrackingImageRandomizing.unity
     guid: 6950081191230304e867c7e80157ad61
   - enabled: 1
-    path: Assets/Scenes/Scene2.unity
+    path: Assets/Scenes/FaceTracking.unity
     guid: 87a77fc9bf61a684da3b4af38c29891c
   - enabled: 1
-    path: Assets/Scenes/Scene1.unity
+    path: Assets/Scenes/ObjectPlacing.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c2ca48e8f6856824ab090d58bcfc0bc5, type: 2}

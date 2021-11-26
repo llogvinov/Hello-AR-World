@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Reference Image Library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5642556039923677297
+  m_GuidHigh: 7410929093221765541
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5662683583050138547
+      m_GuidHigh: 10645146251233426357
+    m_SerializedTextureGuid:
+      m_GuidLow: 8350864298204471871
+      m_GuidHigh: 17686283138199938555
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: apple
+    m_Texture: {fileID: 2800000, guid: 9df8223f3ad573e4fb6563e9ce4c72f5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5442544714765696525
+      m_GuidHigh: 18001523286043957661
+    m_SerializedTextureGuid:
+      m_GuidLow: 4099668451440014680
+      m_GuidHigh: 1753323164782572617
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: banana
+    m_Texture: {fileID: 2800000, guid: 50f53558f2bc38e4493454fd200e5518, type: 3}
